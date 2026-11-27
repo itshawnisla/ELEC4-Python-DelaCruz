@@ -1,28 +1,42 @@
-# ELEC 4 – Python Programming
+# ELEC 4 – Python Programming Activities
 
-**Student:** [YOUR FULL NAME]  
+**Student:** Shawn Isla M. Dela Cruz  
 **Section:** IV-BSIT-A  
 **Course:** ELEC 4 – Python Programming
 
-## Activities
+## Set 1 – Python Programming Activities
 
-| Activity | Description | Run command |
-|---|---|---|
-| P1 | Student grade calculator using functions | `python set1/p1/p1_grade_calculator.py` |
-| P2 | Custom student utility module | `python set1/p2/p2_main.py` |
-| P3 | Student record manager using lists and sets | `python set1/p3/p3_record_manager.py` |
-| P4 | Safe menu and exception handling | `python set1/p4/p4_exceptions.py` |
-| P5 | Student information file system | `python set2/p5/p5_file_system.py` |
-| P6 | Recursive function toolkit | `python set2/p6/p6_recursion.py` |
-| P7 | Student management with classes | `python set2/p7/p7_classes.py` |
-| P8 | Inheritance and polymorphism | `python set2/p8/p8_inheritance.py` |
+| Activity | Description | Folder | Run Command |
+|---|---|---|---|
+| P1 | Student Grade Calculator using Functions | [P1](set1/p1/) | `python set1/p1/p1_grade_calculator.py` |
+| P2 | Custom Student Utility Module | [P2](set1/p2/) | `python set1/p2/p2_main.py` |
+| P3 | Student Record Manager using Lists and Sets | [P3](set1/p3/) | `python set1/p3/p3_record_manager.py` |
+| P4 | Safe Menu and Exception Handling | [P4](set1/p4/) | `python set1/p4/p4_exceptions.py` |
 
 ## Screenshots
-After running each activity, save your own actual screenshot in its `screenshots/` folder.
-Then add it here, for example:
-`![P1 sample run](set1/p1/screenshots/p1_run.png)`
+
+### P1 – Student Grade Calculator
+![P1 Output](set1/p1/screenshots/P1-output.png)
+
+### P2 – Custom Student Utility Module
+![P2 Output](set1/p2/screenshots/P2-output..png)
+
+### P3 – Student Record Manager
+![P3 Output](set1/p3/screenshots/p3-finaloutput..png)
+
+### P4 – Exception Handling
+![P4 Output](set1/p4/screenshots/p4-output..png)
+
+## Instructions
+
+1. Install Python 3.
+2. Open this repository folder in Visual Studio Code.
+3. Open the terminal at the repository root.
+4. Run the activity using its corresponding Python command listed above.
 
 ## Notes
-- Replace `[YOUR FULL NAME]` in every source-file header.
+
+- Each activity contains its own Python source file and README documentation.
+- Screenshots show the actual program outputs.
 - Python 3 is required.
-- Run commands from this repository's root folder.
+- Run commands from the repository root directory.
