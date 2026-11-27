@@ -1,0 +1,6 @@
+ELEC 4 – PYTHON PROGRAMMING
+Section: IV-BSIT-A
+
+Open this folder alone in VS Code using File > Open Folder.
+Read README.md and START_PYTHON.txt for run commands.
+Replace [YOUR FULL NAME] in source headers before submission.
