@@ -1,0 +1,7 @@
+2026001|Ana Santos|IV-BSIT-A|91.5
+2026002|Mark Reyes|IV-BSIT-A|88.0
+2026003|Jamie Cruz|IV-BSIT-A|85.75
+2026004|Alex Garcia|IV-BSIT-A|79.25
+2026005|Taylor Mendoza|IV-BSIT-A|93.0
+11-2026|shawnie|bsit a|94.0
+12-2026|isla|bsit b|98.0
